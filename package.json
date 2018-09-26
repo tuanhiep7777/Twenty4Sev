@@ -1,0 +1,22 @@
+{
+  "name": "twenty4sev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanhiep7777/Twenty4Sev.git"
+  },
+  "author": "Tuan Hiep Tran & Quoc Vuong Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanhiep7777/Twenty4Sev/issues"
+  },
+  "homepage": "https://github.com/tuanhiep7777/Twenty4Sev#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
