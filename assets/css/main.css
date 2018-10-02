@@ -1191,7 +1191,9 @@ a {
 /*===================================================================================*/
 /* Header
 /*===================================================================================*/
-header{background:#157ed2}
+header{background:0xFFFFFF}
+
+.custom-pink{background: #FF789E}
 
 .main-header {
   padding:10px 0px 12px 0px;
@@ -1218,7 +1220,7 @@ header{background:#157ed2}
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   border-radius: 0px;
-  margin: 8px 0 0;
+  margin: 30px 0 0;
   background:#fff;
   border-radius:2px;
 }
@@ -1293,7 +1295,7 @@ header{background:#157ed2}
   background: #404040;
 }
 .top-cart-row {
-  padding-top:8px;
+  padding-top:30px;
   padding-left:0px
 }
 .top-cart-row .dropdown-cart {
@@ -1304,7 +1306,7 @@ header{background:#157ed2}
 
 .top-cart-row .dropdown-cart .lnk-cart {
   padding: 0px;
-      background: #006cb4;
+      background: #FF789E;
     border: 1px solid #24609c;
   border-radius: 3px;
   display: inline-block;
@@ -2613,7 +2615,7 @@ age-container #owl-main .owl-next {
 }
 
 .info-boxes-inner {
-  background-color: #0f6cb2;
+  background-color: #FF789E;
   box-shadow: 0 2px 4px 0 rgba(0,0,0,.08);
 }
   
